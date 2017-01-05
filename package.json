@@ -1,0 +1,15 @@
+{
+  "name": "voa-reader",
+  "version": "0.0.1",
+  "description": "voa viewer for CLI",
+  "main": "index.js",
+  "dependencies": {
+    "feedparser": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DQNEO",
+  "license": "ISC"
+}
